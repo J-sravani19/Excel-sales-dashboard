@@ -20,11 +20,11 @@ This project features a fully interactive sales dashboard built using **Microsof
 ## 🗂️ Project Structure
 excel-sales-dashboard/
 ├── dashboard/
-│ └── SalesDashboard.xlsx # Main Excel dashboard
+│   └── SalesDashboard.xlsx
 ├── data/
-│ └── RawData.xlsx # Source dataset
+│   └── RawData.xlsx
 ├── screenshots/
-│ └── dashboard_preview.jpg # Dashboard image preview
+│   └── dashboard_preview.jpg
 ├── README.md
 
 
